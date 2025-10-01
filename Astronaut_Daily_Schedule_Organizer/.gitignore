@@ -1,0 +1,15 @@
+*.class
+.vscode/
+.idea/
+logs/*.log
+out/
+target/
+.DS_Store
+*.iml
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+bin/
